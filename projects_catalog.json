@@ -5,14 +5,14 @@
       "id": "makung",
       "title": "走讀馬公",
       "description": "探索全台最古老的眷村與天后宮歷史。",
-      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/cover.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/cover.png",
       "configUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/config.json"
     },
     {
       "id": "qingluo",
       "title": "跟著候鳥遊青螺",
       "description": "青螺濕地生態導覽與鳥類尋寶。",
-      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/qingluo/cover.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/qingluo/cover.png",
       "configUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/qingluo/config.json"
     }
   ]

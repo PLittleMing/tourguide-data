@@ -1,0 +1,66 @@
+{
+  "tourId": "qingluo_wetland_01",
+  "mapConfig": {
+    "centerLat": 23.586000,
+    "centerLng": 119.644000,
+    "defaultZoom": 16.0
+  },
+  "treasures": [
+    {
+      "id": "spot_01",
+      "name": "青螺沙嘴燕鷗保護區",
+      "lat": 23.588500,
+      "lng": 119.643200,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "青螺沙嘴是澎湖極具代表性的地形，也是夏候鳥「燕鷗」的重要繁殖地。每年夏季，小燕鷗與玄燕鷗會在此築巢，為了保護這些遠道而來的嬌客，繁殖期間會進行管制喔！",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "小燕鷗主要在什麼季節來到青螺沙嘴繁殖？",
+        "options": ["春季", "夏季", "秋季", "冬季"],
+        "correctIndex": 1
+      }
+    },
+    {
+      "id": "spot_02",
+      "name": "紅樹林復育區",
+      "lat": 23.585200,
+      "lng": 119.645500,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "澎湖風大且鹽分高，原本不利於樹木生長，但青螺濕地成功復育了茂密的紅樹林！這裡最主要的樹種是「海茄苳」，交錯的氣根為濕地生物提供了絕佳的庇護所。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "青螺濕地最主要的紅樹林樹種是哪一種？",
+        "options": ["水筆仔", "海茄苳", "五梨跤", "欖李"],
+        "correctIndex": 1
+      }
+    },
+    {
+      "id": "spot_03",
+      "name": "潮間帶生態區",
+      "lat": 23.584100,
+      "lng": 119.646800,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "退潮後的青螺濕地，是招潮蟹與彈塗魚的遊樂場！如果你仔細觀察泥灘地，會發現許多舉著一隻大螯的螃蟹正在揮舞，像是在跟朋友打招呼，非常可愛。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "泥灘地上常常舉著一隻大大的螯，像在揮手的螃蟹叫什麼名字？",
+        "options": ["寄居蟹", "帝王蟹", "招潮蟹", "大閘蟹"],
+        "correctIndex": 2
+      }
+    },
+    {
+      "id": "spot_04",
+      "name": "虎頭山制高點",
+      "lat": 23.587800,
+      "lng": 119.647500,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "虎頭山是青螺社區的制高點，爬上這裡可以俯瞰整個青螺沙嘴與濕地美景，是攝影愛好者捕捉夕陽與候鳥飛翔的絕佳秘密基地。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "在青螺可以俯瞰整個濕地美景的制高點叫做什麼山？",
+        "options": ["阿里山", "陽明山", "虎頭山", "獅頭山"],
+        "correctIndex": 2
+      }
+    }
+  ]
+}

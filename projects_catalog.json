@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "projects": [
+    {
+      "id": "makung",
+      "title": "走讀馬公",
+      "description": "探索全台最古老的眷村與天后宮歷史。",
+      "coverUrl": "https://PLittleMing.github.io/tourguide-data/makung/cover.jpg",
+      "configUrl": "https://PLittleMing.github.io/tourguide-data/makung/config.json"
+    },
+    {
+      "id": "qingluo",
+      "title": "跟著候鳥遊青螺",
+      "description": "青螺濕地生態導覽與鳥類尋寶。",
+      "coverUrl": "https://PLittleMing.github.io/tourguide-data/qingluo/cover.jpg",
+      "configUrl": "https://PLittleMing.github.io/tourguide-data/qingluo/config.json"
+    }
+  ]
+}

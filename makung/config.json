@@ -1,0 +1,66 @@
+{
+  "tourId": "local_test_01",
+  "mapConfig": {
+    "centerLat": 23.564800,
+    "centerLng": 119.564200,
+    "defaultZoom": 16.0
+  },
+  "treasures": [
+    {
+      "id": "spot_01",
+      "name": "測試搗蛋鬼",
+      "lat": 23.575543,
+      "lng": 119.580244,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "太棒了！這代表你的架構已經完美運作，可以順利讀取本地 JSON 並觸發遊戲了。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "1 + 1 等於多少？",
+        "options": ["1", "2", "3", "4"],
+        "correctIndex": 1
+      }
+    },
+    {
+      "id": "spot_02",
+      "name": "澎湖天后宮",
+      "lat": 23.564567,
+      "lng": 119.564188,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "澎湖天后宮是台灣歷史最悠久的廟宇，幾百年來庇佑著島上的討海人，這裡的木雕與石柱都藏著悠久的歷史氣息...",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "澎湖天后宮主要供奉的神明是哪一位？",
+        "options": ["玉皇大帝", "媽祖 (林默娘)", "觀世音菩薩", "保生大帝"],
+        "correctIndex": 1
+      }
+    },
+    {
+      "id": "spot_03",
+      "name": "四眼井",
+      "lat": 23.565330,
+      "lng": 119.564478,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "四眼井是馬公市最古老的水井，古時候為了避免居民取水時推擠掉落，特別將井口分為四個小孔，是先民智慧的結晶。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "四眼井的設計初衷包含了下列哪一個原因？",
+        "options": ["為了風水美觀", "避免取水時發生意外掉落", "用來過濾井水水質", "為了增加水溫"],
+        "correctIndex": 1
+      }
+    },
+    {
+      "id": "spot_04",
+      "name": "篤行十村",
+      "lat": 23.563212,
+      "lng": 119.560592,
+      "triggerRadiusMeter": 11.0,
+      "storyContent": "篤行十村是全台最古老的眷村，同時也是已故歌手潘安邦與張雨生的故鄉，漫步在此能感受到濃濃的懷舊眷村文化與音樂回憶。",
+      "audioUrl": null,
+      "quizConfig": {
+        "question": "篤行十村曾是哪兩位知名歌手的故鄉？",
+        "options": ["周杰倫與張學友", "潘安邦與張雨生", "鄧麗君與鳳飛飛", "羅大佑與李宗盛"],
+        "correctIndex": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tourId": "local_test_01",
+  "mapConfig": {
+    "centerLat": 23.575105,
+    "centerLng": 119.580157,
+    "defaultZoom": 16.0
+  },
+  "treasures": [
+    {
+      "id": "spot_01",
+      "name": "馬市聯購物中心",
+      "lat": 23.575323,
+      "lng": 119.579516,
+      "triggerRadiusMeter": 15.0,
+      "storyContent": "15年前澎科大學校必去場所,今日已單純為冷庫食品倉庫.",
+      "imageUrl": "https://example.com/spot1",
+      "panoramaUrl": "https://example.com/spot1",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+        {
+          "question": "馬市聯購物中心在那條路上",
+          "options": ["文昌街", "陽明路", "三多路", "四維路"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "spot_02",
+      "name": "澎湖天后宮",
+      "lat": 23.564567,
+      "lng": 119.564188,
+      "triggerRadiusMeter": 15.0,
+      "storyContent": "澎湖天后宮是台灣歷史最悠久的廟宇，幾百年來庇佑著島上的討海人，這裡的木雕與石柱都藏著悠久的歷史氣息...",
+      "imageUrl": "https://example.com/tianhou_temple.jpg",
+      "panoramaUrl": "https://example.com/tianhou_temple_pano.jpg",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+        {
+          "question": "澎湖天后宮主要供奉的神明是哪一位？",
+          "options": ["玉皇大帝", "媽祖 (林默娘)", "觀世音菩薩", "保生大帝"],
+          "correctIndex": 1
+        },
+        {
+          "question": "澎湖天后宮是台灣歷史最悠久的廟宇嗎？",
+          "options": ["是", "不是", "不確定", "以上皆非"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "spot_03",
+      "name": "四眼井",
+      "lat": 23.565330,
+      "lng": 119.564478,
+      "triggerRadiusMeter": 15.0,
+      "storyContent": "四眼井是馬公市最古老的水井，古時候為了避免居民取水時推擠掉落，特別將井口分為四個小孔，是先民智慧的結晶。",
+      "imageUrl": "",
+      "panoramaUrl": "",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+        {
+          "question": "四眼井的設計初衷包含了下列哪一個原因？",
+          "options": ["為了風水美觀", "避免取水時發生意外掉落", "用來過濾井水水質", "為了增加水溫"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "spot_04",
+      "name": "篤行十村",
+      "lat": 23.563212,
+      "lng": 119.560592,
+      "triggerRadiusMeter": 15.0,
+      "storyContent": "篤行十村是全台最古老的眷村，同時也是已故歌手潘安邦與張雨生的故鄉，漫步在此能感受到濃濃的懷舊眷村文化與音樂回憶。",
+      "imageUrl": "",
+      "panoramaUrl": "",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+        {
+          "question": "篤行十村曾是哪兩位知名歌手的故鄉？",
+          "options": ["周杰倫與張學友", "潘安邦與張雨生", "鄧麗君與鳳飛飛", "羅大佑與李宗盛"],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}

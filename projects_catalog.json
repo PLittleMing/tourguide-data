@@ -2,6 +2,13 @@
   "version": "1.0",
   "projects": [
     {
+      "id": "ChaoyangVil",
+      "title": "朝陽健行隊",
+      "description": "探索紅木埕歷史",
+      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/cover.png",
+      "configUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/config.json"
+    },
+    {
       "id": "makung",
       "title": "走讀馬公",
       "description": "探索全台最古老的眷村與天后宮歷史。",

@@ -123,6 +123,43 @@
           "correctIndex": 1
         }
       ]
+    },
+    {
+      "id": "spot_05",
+      "name": "朝陽里社區活動中心",
+      "lat": 23.573857,
+      "lng": 119.579925,
+      "triggerRadiusMeter": 15.0,
+      "storyContent": "提供居民休閒、交流與社區活動使用，也是凝聚地方情感的重要場所。來到朝陽里，可以從這裡認識在地居民的生活與社區文化。",
+      "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_05.jpg",
+      "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_05.jpg",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+         {
+            "question": "朝陽里社區活動中心位於澎湖縣哪一個城市？",
+            "options": [
+              "湖西鄉",
+              "馬公市",
+              "白沙鄉",
+              "西嶼鄉"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "朝陽里社區活動中心主要提供哪一類型的功能？",
+            "options": [
+              "機場航空服務",
+              "漁船維修服務",
+              "社區活動與居民交流",
+              "汽車駕駛訓練"
+            ],
+            "correctIndex": 2
+          }
+      ]
     }
   ]
 }

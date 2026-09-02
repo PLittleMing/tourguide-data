@@ -1,5 +1,6 @@
 {
   "tourId": "local_test_01",
+  "surveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfySdo2XAriaLxMDvopgOmDCLMwDf3iDr9DU-V5n3sJiLIPrA/viewform",
   "mapConfig": {
     "centerLat": 23.575105,
     "centerLng": 119.580157,

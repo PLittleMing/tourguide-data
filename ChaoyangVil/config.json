@@ -46,7 +46,7 @@
         {
           "question": "全家便利商店主要提供哪一類型的服務？",
           "options": ["便利商店零售服務", "銀行貸款服務", "汽車維修服務", "旅行社服務"],
-          "correctIndex": 1
+          "correctIndex": 0
         },
         {
           "question": "在旅途中到全家便利商店，最適合購買下列哪一項？",
@@ -57,11 +57,11 @@
     },
     {
       "id": "spot_03",
-      "name": "四眼井",
-      "lat": 23.565330,
-      "lng": 119.564478,
+      "name": "7-ELEVEN澎技門市",
+      "lat": 23.574228,
+      "lng": 119.579424,
       "triggerRadiusMeter": 15.0,
-      "storyContent": "四眼井是馬公市最古老的水井，古時候為了避免居民取水時推擠掉落，特別將井口分為四個小孔，是先民智慧的結晶。",
+      "storyContent": "市區旅途中方便的補給據點。旅客可以在此購買飲料、食品及日用品，適合騎機車或開車遊覽澎湖途中短暫停留、休息與補充物資。",
       "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_03.jpg",
       "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_03.jpg",
       "audioUrls": {
@@ -70,9 +70,19 @@
         "hak": ""
       },
       "quizConfigs": [
+       {
+          "question": "7-ELEVEN澎技門市位於澎湖哪一個城市？",
+          "options": ["湖西鄉", "西嶼鄉", "馬公市", "白沙鄉"],
+          "correctIndex": 2
+        },
         {
-          "question": "四眼井的設計初衷包含了下列哪一個原因？",
-          "options": ["為了風水美觀", "避免取水時發生意外掉落", "用來過濾井水水質", "為了增加水溫"],
+          "question": "7-ELEVEN澎技門市的地址是哪一個？",
+          "options": [
+            "澎湖縣馬公市光復路59號",
+            "澎湖縣馬公市三多路45號",
+            "澎湖縣馬公市民權路98號",
+            "澎湖縣馬公市中華路251號"
+          ],
           "correctIndex": 1
         }
       ]

@@ -160,6 +160,43 @@
             "correctIndex": 2
           }
       ]
+    },
+    {
+      "id": "spot_06",
+      "name": "國立澎湖科技大學",
+      "lat": 23.574577,
+      "lng": 119.581125,
+      "triggerRadiusMeter": 30.0,
+      "storyContent": "澎湖重要的高等教育學府，位於馬公市六合路。學校結合海洋、觀光、科技與管理等特色，培育在地產業所需人才，也為澎湖的教育、產業與地方發展注入活力。",
+      "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_06.jpg",
+      "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_06.jpg",
+      "audioUrls": {
+        "zh": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfigs": [
+         {
+            "question": "國立澎湖科技大學位於澎湖縣哪一個城市？",
+            "options": [
+              "白沙鄉",
+              "湖西鄉",
+              "馬公市",
+              "西嶼鄉"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "question": "國立澎湖科技大學主要培育哪些領域的人才？",
+            "options": [
+              "海洋、觀光、科技與管理",
+              "航空、鐵路與造船",
+              "農業、林業與畜牧",
+              "礦業、石油與冶金"
+            ],
+            "correctIndex": 0
+          }
+      ]
     }
   ]
 }

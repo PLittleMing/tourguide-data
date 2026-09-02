@@ -89,11 +89,11 @@
     },
     {
       "id": "spot_04",
-      "name": "篤行十村",
-      "lat": 23.563212,
-      "lng": 119.560592,
+      "name": "重威紀念公園",
+      "lat": 23.574223,
+      "lng": 119.579851,
       "triggerRadiusMeter": 15.0,
-      "storyContent": "篤行十村是全台最古老的眷村，同時也是已故歌手潘安邦與張雨生的故鄉，漫步在此能感受到濃濃的懷舊眷村文化與音樂回憶。",
+      "storyContent": "重威紀念公園是澎湖為紀念抗 SARS 殉職醫師林重威而設立的紀念公園。園內以「關懷」為主題的公共藝術，象徵醫師對病患的照顧與奉獻，也提醒人們珍愛生命、關懷他人。來到這裡除了可以認識澎湖人物故事，也能感受一段與 SARS 歷史有關的重要記憶。",
       "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_04.jpg",
       "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_04.jpg",
       "audioUrls": {
@@ -102,9 +102,24 @@
         "hak": ""
       },
       "quizConfigs": [
+         {
+          "question": "重威紀念公園主要是為了紀念哪一位人物？",
+          "options": [
+            "林重威醫師",
+            "林大雄先生",
+            "郭文嵐先生",
+            "林澎湖先生"
+          ],
+          "correctIndex": 0
+        },
         {
-          "question": "篤行十村曾是哪兩位知名歌手的故鄉？",
-          "options": ["周杰倫與張學友", "潘安邦與張雨生", "鄧麗君與鳳飛飛", "羅大佑與李宗盛"],
+          "question": "林重威醫師是因為哪一種疾病感染而不幸殉職？",
+          "options": [
+            "登革熱",
+            "SARS",
+            "流感",
+            "肺結核"
+          ],
           "correctIndex": 1
         }
       ]

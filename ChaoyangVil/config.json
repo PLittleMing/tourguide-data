@@ -38,7 +38,7 @@
       "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_02.jpg",
       "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_02.jpg",
       "audioUrls": {
-        "zh": "",
+        "zh": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_02_zh.mp3",
         "nan": "",
         "hak": ""
       },

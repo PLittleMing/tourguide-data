@@ -3,8 +3,7 @@
   "mapConfig": {
     "centerLat": 23.575105,
     "centerLng": 119.580157,
-    "defaultZoom": 16.0,
-    "surveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc0p8QI3YxIGDCJhgUV5gV50CC90_3CH7eexCQDYyz8Ly3wXw/viewform?usp=publish-editor"
+    "defaultZoom": 16.0
   },
   "treasures": [
     {

@@ -17,8 +17,8 @@
         "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
         "audioUrls": {
           "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_01_zh.mp3",
-          "nan": "https://plittleming.github.io/tourguide-data/qingluo/spot_01_nan.mp3",
-          "hak": "https://plittleming.github.io/tourguide-data/qingluo/spot_01_hak.mp3"
+          "nan": "",
+          "hak": ""
        ` },
       "quizConfig": {
         "question": "青螺虎頭山位於澎湖哪一個地區？",

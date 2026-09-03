@@ -52,6 +52,7 @@
     {
       "id": "spot_03",
       "name": "青螺陽明妙塔",
+      "explore_mode": "auto",
       "lat": 23.603594,
       "lng": 119.650852,
       "triggerRadiusMeter": 50.0,
@@ -72,6 +73,7 @@
     {
       "id": "spot_04",
       "name": "青螺濕地",
+      "explore_mode": "auto",
       "lat": 23.598233,
       "lng": 119.647229,
       "triggerRadiusMeter": 11.0,

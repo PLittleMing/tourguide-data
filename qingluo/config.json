@@ -28,17 +28,21 @@
     },
     {
       "id": "spot_02",
-      "name": "紅樹林復育區",
-      "lat": 23.585200,
-      "lng": 119.645500,
-      "triggerRadiusMeter": 11.0,
-      "storyContent": "澎湖風大且鹽分高，原本不利於樹木生長，但青螺濕地成功復育了茂密的紅樹林！這裡最主要的樹種是「海茄苳」，交錯的氣根為濕地生物提供了絕佳的庇護所。",
-      "audioUrl": null,
-      "quizConfig": {
-        "question": "青螺濕地最主要的紅樹林樹種是哪一種？",
-        "options": ["水筆仔", "海茄苳", "五梨跤", "欖李"],
+      "name": "青螺砂嘴",
+      "lat": 23.607169,
+      "lng": 119.649379,
+      "triggerRadiusMeter": 250.0,
+      "storyContent": "由海岸沙洲與潮間帶環境形成的自然景觀。這裡具有開闊的海岸視野與豐富的濱海生態，尤其是候鳥活動的重要場所之一。每年春夏季可觀察到小燕鷗等鳥類在此活動與繁殖，是認識澎湖海岸生態與鳥類自然環境的特色景點。",
+      "audioUrls": {
+          "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_02_zh.mp3",
+          "nan": "",
+          "hak": ""
+         },
+        "quizConfig": {
+        "question": "小燕鷗主要在什麼季節來到青螺沙嘴繁殖？",
+        "options": ["春季", "夏季", "秋季", "冬季"],
         "correctIndex": 1
-      }
+        }
     },
     {
       "id": "spot_03",

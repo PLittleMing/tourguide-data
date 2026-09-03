@@ -7,21 +7,21 @@
     "defaultZoom": 12.0
   },
   "treasures": [
-      {
-        "id": "spot_01",
-        "name": "虎頭山",
-        "explore_mode": "auto"
-        "lat": 23.607793,
-        "lng": 119.654482,
-        "triggerRadiusMeter": 80.0,
-        "storyContent": "位於澎湖縣湖西鄉青螺地區，是青螺一帶具地方特色的自然地景。虎頭山可作為探索青螺地區自然環境與海岸景觀的景點，從周邊可感受澎湖開闊的海洋景色與特殊地形，是適合戶外探索與認識地方自然環境的地點。",
-        "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
-        "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
-        "audioUrls": {
-          "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_01_zh.mp3",
-          "nan": "",
-          "hak": ""
-         },
+    {
+      "id": "spot_01",
+      "name": "虎頭山",
+      "explore_mode": "auto",
+      "lat": 23.607793,
+      "lng": 119.654482,
+      "triggerRadiusMeter": 80.0,
+      "storyContent": "位於澎湖縣湖西鄉青螺地區，是青螺一帶具地方特色的自然地景。虎頭山可作為探索青螺地區自然環境與海岸景觀的景點，從周邊可感受澎湖開闊的海洋景色與特殊地形，是適合戶外探索與認識地方自然環境的地點。",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_01_zh.mp3",
+        "nan": "",
+        "hak": ""
+      },
       "quizConfig": {
         "question": "青螺虎頭山位於澎湖哪一個地區？",
         "options": ["湖西鄉", "馬公市", "白沙鄉", "西嶼鄉"],
@@ -31,21 +31,21 @@
     {
       "id": "spot_02",
       "name": "青螺砂嘴",
-      "explore_mode": "quiz"
+      "explore_mode": "quiz",
       "lat": 23.607169,
       "lng": 119.649379,
       "triggerRadiusMeter": 250.0,
       "storyContent": "由海岸沙洲與潮間帶環境形成的自然景觀。這裡具有開闊的海岸視野與豐富的濱海生態，尤其是候鳥活動的重要場所之一。每年春夏季可觀察到小燕鷗等鳥類在此活動與繁殖，是認識澎湖海岸生態與鳥類自然環境的特色景點。",
       "audioUrls": {
-          "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_02_zh.mp3",
-          "nan": "",
-          "hak": ""
-         },
-        "quizConfig": {
+        "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_02_zh.mp3",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfig": {
         "question": "小燕鷗主要在什麼季節來到青螺沙嘴繁殖？",
         "options": ["春季", "夏季", "秋季", "冬季"],
         "correctIndex": 1
-        }
+      }
     },
     {
       "id": "spot_03",
@@ -54,7 +54,7 @@
       "lng": 119.646800,
       "triggerRadiusMeter": 11.0,
       "storyContent": "退潮後的青螺濕地，是招潮蟹與彈塗魚的遊樂場！如果你仔細觀察泥灘地，會發現許多舉著一隻大螯的螃蟹正在揮舞，像是在跟朋友打招呼，非常可愛。",
-      "audioUrl": null,
+      "audioUrls": null,
       "quizConfig": {
         "question": "泥灘地上常常舉著一隻大大的螯，像在揮手的螃蟹叫什麼名字？",
         "options": ["寄居蟹", "帝王蟹", "招潮蟹", "大閘蟹"],
@@ -68,7 +68,7 @@
       "lng": 119.647500,
       "triggerRadiusMeter": 11.0,
       "storyContent": "虎頭山是青螺社區的制高點，爬上這裡可以俯瞰整個青螺沙嘴與濕地美景，是攝影愛好者捕捉夕陽與候鳥飛翔的絕佳秘密基地。",
-      "audioUrl": null,
+      "audioUrls": null,
       "quizConfig": {
         "question": "在青螺可以俯瞰整個濕地美景的制高點叫做什麼山？",
         "options": ["阿里山", "陽明山", "虎頭山", "獅頭山"],

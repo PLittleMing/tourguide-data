@@ -61,6 +61,7 @@
     {
       "id": "spot_03",
       "name": "7-ELEVEN澎技門市",
+      "explore_mode": "quiz",
       "lat": 23.574228,
       "lng": 119.579424,
       "triggerRadiusMeter": 30.0,
@@ -93,6 +94,7 @@
     {
       "id": "spot_04",
       "name": "重威紀念公園",
+      "explore_mode": "quiz",
       "lat": 23.574223,
       "lng": 119.579851,
       "triggerRadiusMeter": 50.0,
@@ -130,6 +132,7 @@
     {
       "id": "spot_05",
       "name": "朝陽里社區活動中心",
+      "explore_mode": "quiz",
       "lat": 23.573857,
       "lng": 119.579925,
       "triggerRadiusMeter": 30.0,

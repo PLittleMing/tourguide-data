@@ -1,5 +1,7 @@
 {
   "tourId": "qingluo_wetland_01",
+  "arriveOn": 0
+  "surveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfySdo2XAriaLxMDvopgOmDCLMwDf3iDr9DU-V5n3sJiLIPrA/viewform",
   "mapConfig": {
     "centerLat": 23.599803,
     "centerLng": 119.650658,

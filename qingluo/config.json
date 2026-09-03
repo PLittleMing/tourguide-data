@@ -3,7 +3,7 @@
   "mapConfig": {
     "centerLat": 23.599803,
     "centerLng": 119.650658,
-    "defaultZoom": 8.0
+    "defaultZoom": 12.0
   },
   "treasures": [
       {
@@ -11,7 +11,7 @@
         "name": "虎頭山",
         "lat": 23.607793,
         "lng": 119.654482,
-        "triggerRadiusMeter": 11.0,
+        "triggerRadiusMeter": 80.0,
         "storyContent": "位於澎湖縣湖西鄉青螺地區，是青螺一帶具地方特色的自然地景。虎頭山可作為探索青螺地區自然環境與海岸景觀的景點，從周邊可感受澎湖開闊的海洋景色與特殊地形，是適合戶外探索與認識地方自然環境的地點。",
         "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",
         "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_01.jpg",

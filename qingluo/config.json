@@ -54,7 +54,7 @@
       "name": "青螺陽明妙塔",
       "lat": 23.603594,
       "lng": 119.650852,
-      "triggerRadiusMeter": 11.0,
+      "triggerRadiusMeter": 50.0,
       "storyContent": "澎湖各地有許多鎮風避邪的石塔，但陽明妙塔是全澎湖唯一具有「求雨（聚雨）」作用的石塔。地方相傳，若遇久旱不雨，只要將俗稱「大青草」的植物插在石塔上，不久便會天降甘霖，庇佑當地農作生長。",
       "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_03.jpg",
       "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_03.jpg",
@@ -71,16 +71,22 @@
     },
     {
       "id": "spot_04",
-      "name": "虎頭山制高點",
-      "lat": 23.587800,
-      "lng": 119.647500,
+      "name": "青螺濕地",
+      "lat": 23.598233,
+      "lng": 119.647229,
       "triggerRadiusMeter": 11.0,
-      "storyContent": "虎頭山是青螺社區的制高點，爬上這裡可以俯瞰整個青螺沙嘴與濕地美景，是攝影愛好者捕捉夕陽與候鳥飛翔的絕佳秘密基地。",
-      "audioUrls": null,
+      "storyContent": "這裡是澎湖自然生態的寶庫，融合了多樣的地形與豐富的動植物生態。擁有澎湖最大面積的紅樹林，唯一被列為「國家級」的重要濕地，樹種主要以「海茄苳」為主。這片紅樹林為潮間帶的招潮蟹、彈塗魚及魚蝦幼苗提供了極佳的庇護所與覓食地",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_04.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_04.jpg",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_04_zh.mp3",
+        "nan": "",
+        "hak": ""
+      },
       "quizConfig": {
-        "question": "在青螺可以俯瞰整個濕地美景的制高點叫做什麼山？",
-        "options": ["阿里山", "陽明山", "虎頭山", "獅頭山"],
-        "correctIndex": 2
+      "question": "青螺濕地擁有澎湖最大面積的紅樹林，請問這片紅樹林最主要的植物樹種為何？",
+      "options": ["水筆仔","海茄苳","五梨跤","欖李"],
+      "correctIndex": 1
       }
     }
   ]

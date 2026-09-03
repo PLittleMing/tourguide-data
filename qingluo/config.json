@@ -49,16 +49,20 @@
     },
     {
       "id": "spot_03",
-      "name": "潮間帶生態區",
-      "lat": 23.584100,
-      "lng": 119.646800,
+      "name": "青螺陽明妙塔",
+      "lat": 23.603594,
+      "lng": 119.650852,
       "triggerRadiusMeter": 11.0,
-      "storyContent": "退潮後的青螺濕地，是招潮蟹與彈塗魚的遊樂場！如果你仔細觀察泥灘地，會發現許多舉著一隻大螯的螃蟹正在揮舞，像是在跟朋友打招呼，非常可愛。",
-      "audioUrls": null,
+      "storyContent": "澎湖各地有許多鎮風避邪的石塔，但陽明妙塔是全澎湖唯一具有「求雨（聚雨）」作用的石塔。地方相傳，若遇久旱不雨，只要將俗稱「大青草」的植物插在石塔上，不久便會天降甘霖，庇佑當地農作生長。",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_03_zh.mp3",
+        "nan": "",
+        "hak": ""
+      },
       "quizConfig": {
-        "question": "泥灘地上常常舉著一隻大大的螯，像在揮手的螃蟹叫什麼名字？",
-        "options": ["寄居蟹", "帝王蟹", "招潮蟹", "大閘蟹"],
-        "correctIndex": 2
+      "question": "青螺陽明妙塔在澎湖眾多石塔中，具有哪一項獨一無二的特殊功能？",
+      "options": ["導航船隻","求雨（聚雨）","防禦海盜","觀測潮汐"],
+      "correctIndex": 1
       }
     },
     {

@@ -1,12 +1,12 @@
 {
   "version": "1.0",
   "projects": [
-    {
-      "id": "ChaoyangVil",
-      "title": "朝陽健行隊",
-      "description": "漫步紅木埕",
-      "coverUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/cover.jpg",
-      "configUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/config.json"
+   {
+      "id": "qingluo",
+      "title": "潮聲漫遊",
+      "description": "湖西鄉青螺村旅遊路線",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/qingluo/cover.jpg",
+      "configUrl": "https://plittleming.github.io/tourguide-data/qingluo/config.json"
     },
     {
       "id": "makung",
@@ -15,12 +15,13 @@
       "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/cover.png",
       "configUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/makung/config.json"
     },
-    {
-      "id": "qingluo",
-      "title": "潮聲漫遊",
-      "description": "湖西鄉青螺村旅遊路線",
-      "coverUrl": "https://plittleming.github.io/tourguide-data/qingluo/cover.jpg",
-      "configUrl": "https://plittleming.github.io/tourguide-data/qingluo/config.json"
+       {
+      "id": "ChaoyangVil",
+      "title": "朝陽健行隊",
+      "description": "漫步紅木埕",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/cover.jpg",
+      "configUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/config.json"
     }
+    
   ]
 }

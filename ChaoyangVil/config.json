@@ -10,6 +10,7 @@
     {
       "id": "spot_01",
       "name": "馬市聯購物中心",
+      "explore_mode": "auto",
       "lat": 23.575323,
       "lng": 119.579516,
       "triggerRadiusMeter": 50.0,
@@ -32,6 +33,7 @@
     {
       "id": "spot_02",
       "name": "全家便利商店_鑫科店",
+      "explore_mode": "auto",
       "lat": 23.574411,
       "lng": 119.578300,
       "triggerRadiusMeter": 30.0,

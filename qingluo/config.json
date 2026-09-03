@@ -1,9 +1,9 @@
 {
   "tourId": "qingluo_wetland_01",
   "mapConfig": {
-    "centerLat": 23.586000,
-    "centerLng": 119.644000,
-    "defaultZoom": 16.0
+    "centerLat": 23.599803,
+    "centerLng": 119.650658,
+    "defaultZoom": 8.0
   },
   "treasures": [
     {

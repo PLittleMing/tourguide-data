@@ -19,8 +19,8 @@
       "id": "qingluo",
       "title": "跟著候鳥遊青螺",
       "description": "青螺濕地生態導覽與鳥類尋寶。",
-      "coverUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/qingluo/cover.png",
-      "configUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/qingluo/config.json"
+      "coverUrl": "https://plittleming.github.io/tourguide-data/qingluo/cover.png",
+      "configUrl": "https://plittleming.github.io/tourguide-data/qingluo/config.json"
     }
   ]
 }

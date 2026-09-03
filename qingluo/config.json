@@ -1,6 +1,5 @@
 {
   "tourId": "qingluo_wetland_01",
-  "arriveOn": 0
   "surveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfySdo2XAriaLxMDvopgOmDCLMwDf3iDr9DU-V5n3sJiLIPrA/viewform",
   "mapConfig": {
     "centerLat": 23.599803,
@@ -11,6 +10,7 @@
       {
         "id": "spot_01",
         "name": "虎頭山",
+        "explore_mode": "auto"
         "lat": 23.607793,
         "lng": 119.654482,
         "triggerRadiusMeter": 80.0,
@@ -31,6 +31,7 @@
     {
       "id": "spot_02",
       "name": "青螺砂嘴",
+      "explore_mode": "quiz"
       "lat": 23.607169,
       "lng": 119.649379,
       "triggerRadiusMeter": 250.0,

@@ -6,18 +6,24 @@
     "defaultZoom": 8.0
   },
   "treasures": [
-    {
-      "id": "spot_01",
-      "name": "青螺沙嘴燕鷗保護區",
-      "lat": 23.588500,
-      "lng": 119.643200,
-      "triggerRadiusMeter": 11.0,
-      "storyContent": "青螺沙嘴是澎湖極具代表性的地形，也是夏候鳥「燕鷗」的重要繁殖地。每年夏季，小燕鷗與玄燕鷗會在此築巢，為了保護這些遠道而來的嬌客，繁殖期間會進行管制喔！",
-      "audioUrl": null,
+      {
+        "id": "spot_01",
+        "name": "虎頭山",
+        "lat": 23.607793,
+        "lng": 119.654482,
+        "triggerRadiusMeter": 11.0,
+        "storyContent": "位於澎湖縣湖西鄉青螺地區，是青螺一帶具地方特色的自然地景。虎頭山可作為探索青螺地區自然環境與海岸景觀的景點，從周邊可感受澎湖開闊的海洋景色與特殊地形，是適合戶外探索與認識地方自然環境的地點。",
+        "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01.jpg",
+        "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01.jpg",
+        "audioUrls": {
+          "zh": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01_zh.mp3",
+          "nan": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01_nan.mp3",
+          "hak": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01_hak.mp3"
+       ` },
       "quizConfig": {
-        "question": "小燕鷗主要在什麼季節來到青螺沙嘴繁殖？",
-        "options": ["春季", "夏季", "秋季", "冬季"],
-        "correctIndex": 1
+        "question": "青螺虎頭山位於澎湖哪一個地區？",
+        "options": ["湖西鄉", "馬公市", "白沙鄉", "西嶼鄉"],
+        "correctIndex": 0
       }
     },
     {

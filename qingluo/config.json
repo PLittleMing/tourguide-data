@@ -76,7 +76,7 @@
       "explore_mode": "auto",
       "lat": 23.598233,
       "lng": 119.647229,
-      "triggerRadiusMeter": 11.0,
+      "triggerRadiusMeter": 300,
       "storyContent": "這裡是澎湖自然生態的寶庫，融合了多樣的地形與豐富的動植物生態。擁有澎湖最大面積的紅樹林，唯一被列為「國家級」的重要濕地，樹種主要以「海茄苳」為主。這片紅樹林為潮間帶的招潮蟹、彈塗魚及魚蝦幼苗提供了極佳的庇護所與覓食地",
       "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_04.jpg",
       "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_04.jpg",
@@ -84,12 +84,32 @@
         "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_04_zh.mp3",
         "nan": "",
         "hak": ""
+        },
+        "quizConfig": {
+        "question": "青螺濕地擁有澎湖最大面積的紅樹林，請問這片紅樹林最主要的植物樹種為何？",
+        "options": ["水筆仔","海茄苳","五梨跤","欖李"],
+        "correctIndex": 1
+        },
+    {
+      "id": "spot_05",
+      "name": "螺濕生態園區",
+      "explore_mode": "auto",
+      "lat": 23.597120,
+      "lng": 119.647229,
+      "triggerRadiusMeter": 50,
+      "storyContent": "原本是荒廢的公有空地，經由社區積極營造與改造，轉型為兼具生態保育與觀光休閒的綠色亮點。園區內設有紅磚瓦造的「濕地遊憩室」，提供遊客休憩，並設有步道讓民眾在不干擾自然的前提下親近生態",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_05.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/qingluo/spot_05.jpg",
+      "audioUrls": {
+      "zh": "https://plittleming.github.io/tourguide-data/qingluo/spot_05_zh.mp3",
+      "nan": "",
+      "hak": ""
       },
       "quizConfig": {
       "question": "青螺濕地擁有澎湖最大面積的紅樹林，請問這片紅樹林最主要的植物樹種為何？",
       "options": ["水筆仔","海茄苳","五梨跤","欖李"],
       "correctIndex": 1
       }
-    }
+  }
   ]
 }

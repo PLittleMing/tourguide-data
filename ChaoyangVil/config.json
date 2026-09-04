@@ -13,7 +13,7 @@
       "explore_mode": "auto",
       "lat": 23.575323,
       "lng": 119.579516,
-      "triggerRadiusMeter": 150.0,
+      "triggerRadiusMeter": 60.0,
       "storyContent": "15年前澎科大學生必去場所,今日已單純為冷庫食品倉庫.",
       "imageUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01.jpg",
       "panoramaUrl": "https://raw.githubusercontent.com/PLittleMing/tourguide-data/main/ChaoyangVil/spot_01.jpg",

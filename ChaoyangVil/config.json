@@ -26,7 +26,7 @@
         {
           "question": "馬市聯購物中心在那條路上",
           "options": ["文昌街", "陽明路", "三多路", "四維路"],
-          "correctIndex": 1
+          "correctIndex": 0
         }
       ]
     },

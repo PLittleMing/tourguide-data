@@ -1,20 +1,19 @@
 {
   "version": "1.0",
-  "projects": [
+  "organizations": [
    {
       "id": "mingyinggeo",
       "title": "MingYing Geo",
       "description": "將地理資訊融入在地生活，探索地方景點、認識人文特色，讓更多人看見土地的故事與魅力",
       "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/cover.jpg",
-      "configUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/projects_catalog.json"
+      "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/projects_catalog.json"
     },
     {
       "id": "luliaokeng",
       "title": "鹿寮坑細路青培工作站",
       "description": "一條躲藏於山坑中的小溪流，是我們故事的開始。",
       "coverUrl": "https://plittleming.github.io/tourguide-data/main/luliaokeng/cover.png",
-      "configUrl": "https://plittleming.github.io/tourguide-data/main/luliaokeng/projects_catalog.json"
+      "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/main/luliaokeng/projects_catalog.json"
     }
-    
   ]
 }

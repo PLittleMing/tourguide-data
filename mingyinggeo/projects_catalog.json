@@ -5,15 +5,15 @@
       "id": "qingluo",
       "title": "潮聲漫遊",
       "description": "湖西鄉青螺村旅遊路線",
-      "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/mingyinggeo/qingluo/cover.jpg",
-      "configUrl": "hhttps://plittleming.github.io/tourguide-data/mingyinggeo/mingyinggeo/qingluo/config.json"
+      "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/qingluo/cover.jpg",
+      "configUrl": "hhttps://plittleming.github.io/tourguide-data/mingyinggeo/qingluo/config.json"
     },
     {
       "id": "ChaoyangVil",
       "title": "朝陽健行隊",
       "description": "漫步紅木埕",
-      "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/mingyinggeo/ChaoyangVil/cover.jpg",
-      "configUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/mingyinggeo/ChaoyangVil/config.json"
+      "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/cover.jpg",
+      "configUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/config.json"
     }
     
   ]

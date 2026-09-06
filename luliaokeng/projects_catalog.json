@@ -1,6 +1,13 @@
 {
   "version": "1.0",
   "projects": [
+  {
+      "id": "XiuhuNucle",
+      "title": "伯公引路・尋根秀湖",
+      "description": "循著伯公的足跡，走進秀湖拓墾的歷史故事",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/cover.jpg",
+      "configUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/config.json"
+    },
     {
       "id": "Qionglin",
       "title": "芎林客庄走讀",

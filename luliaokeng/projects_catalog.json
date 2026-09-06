@@ -2,11 +2,11 @@
   "version": "1.0",
   "projects": [
     {
-      "id": "ChaoyangVil",
-      "title": "朝陽健行隊",
-      "description": "漫步紅木埕",
-      "coverUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/cover.jpg",
-      "configUrl": "https://plittleming.github.io/tourguide-data/ChaoyangVil/config.json"
+      "id": "Qionglin",
+      "title": "芎林客庄走讀",
+      "description": "探索芎林社區景點，認識客家文化與地方故事。透過智慧地圖，帶你走進客庄、發現社區，尋找屬於芎林的在地風景與人情味。",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/cover.jpg",
+      "configUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/config.json"
     }
     
   ]

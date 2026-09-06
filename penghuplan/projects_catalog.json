@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "projects": [
+   {
+      "id": "qingluo",
+      "title": "潮聲漫遊",
+      "description": "湖西鄉青螺村旅遊路線",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/penghuplano/qingluo/cover.jpg",
+      "configUrl": "hhttps://plittleming.github.io/tourguide-data/penghuplan/qingluo/config.json"
+    }
+    
+  ]
+}

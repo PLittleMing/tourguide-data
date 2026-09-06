@@ -19,6 +19,7 @@
       "panoramaUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/spot_01.jpg",
       "audioUrls": {
         "zh": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/spot_01_zh.mp3",
+        "en": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/spot_01_zh.mp3",
         "nan": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/spot_01_nan.mp3",
         "hak": "https://plittleming.github.io/tourguide-data/mingyinggeo/ChaoyangVil/spot_01_hak.mp3"
       },

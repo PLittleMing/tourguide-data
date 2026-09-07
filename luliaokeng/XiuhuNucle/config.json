@@ -141,6 +141,33 @@
           ],
         "correctIndex": 0
         }
+    },
+    {
+      "id": "spot_06",
+      "name": "山豬湖伯公",
+      "explore_mode": "auto",
+      "lat": 24.728524,
+      "lng": 121.121430,
+      "triggerRadiusMeter": 200.0,
+      "storyContent": "山豬湖伯公又有「拱子樹伯公」、「吳屋伯公」、「水頭伯公」等名稱。早期先民在開墾田地時，以樹木與石頭設立伯公，祈求土地安定、農作順利。因伯公位於水源頭，因此又稱為「水頭伯公」。這座伯公見證了山豬湖地區早期客家先民開墾土地、引水耕作與建立聚落的歷程。",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06.jpg",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06_zh.mp3",
+        "en": "",
+        "nan": "",
+        "hak": ""
+      },
+      "quizConfig": {
+        "question": "山豬湖伯公早期又稱為什麼？",
+        "options": [
+        "水頭伯公",
+        "樹石伯公",
+        "庄尾伯公",
+        "双汴伯公"
+        ],
+        "correctIndex": 0
+      }
     }
   ]
 }

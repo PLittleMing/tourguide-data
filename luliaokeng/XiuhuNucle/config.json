@@ -195,6 +195,33 @@
         ],
         "correctIndex": 0
       }
+    },
+    {
+      "id": "spot_08",
+      "name": "車頭伯公",
+      "explore_mode": "auto",
+      "lat": 24.730001,
+      "lng": 121.122594,
+      "triggerRadiusMeter": 150.0,
+      "storyContent": "拱子樹伯公是山豬湖地區早期伯公信仰的代表之一，因伯公與「拱子樹」相伴而得名。早期客家先民開墾山豬湖土地時，就地取材設立伯公，祈求土地守護、農作順利，也寄託對自然環境的敬意。從拱子樹伯公，可以認識先民如何在開墾土地的同時，與樹木、水源及農田建立緊密的生活關係。",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_08.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_08.jpg",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_08_zh.mp3",
+        "en": "",
+        "nan": "",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_08_hak.mp3"
+      },
+      "quizConfig": {
+        "question": "拱子樹伯公的名稱與什麼有關？",
+        "options": [
+        "拱子樹",
+        "楓樹",
+        "榕樹",
+        "竹林"
+        ],
+        "correctIndex": 0
+      }
     }
   ]
 }

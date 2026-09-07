@@ -114,6 +114,33 @@
         ],
         "correctIndex": 0
       }
+    },
+    {
+      "id": "spot_05",
+      "name": "榕樹伯公(樹石伯公)",
+      "explore_mode": "auto",
+      "lat": 24.728685,
+      "lng": 121.119319,
+      "triggerRadiusMeter": 200.0,
+      "storyContent": "榕樹伯公又稱「樹石伯公」，以樹木與石頭作為伯公信仰的象徵，呈現早期客家先民就地取材、敬奉土地的傳統。伯公守護著田園與聚落，也陪伴先民在山豬湖一帶開墾、耕作與生活。從一棵樹、一塊石頭，到一座座伯公，可以看見先民與土地之間深厚的情感與信仰。",
+      "imageUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05.jpg",
+      "panoramaUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05.jpg",
+      "audioUrls": {
+        "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05_zh.mp3",
+        "en": "",
+        "nan": "",
+        "hak": ""
+      },
+        "quizConfig": {
+          "question": "榕樹伯公又稱為什麼？",
+          "options": [
+          "樹石伯公",
+          "水頭伯公",
+          "庄尾伯公",
+          "田尾伯公"
+          ],
+        "correctIndex": 0
+        }
     }
   ]
 }

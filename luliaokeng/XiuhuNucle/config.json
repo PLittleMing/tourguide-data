@@ -90,12 +90,12 @@
     },
     {
       "id": "spot_04",
-      "name": "山豬湖伯公",
+      "name": "南片伯公(彭屋田頭伯公)",
       "explore_mode": "auto",
-      "lat": 24.736444863304367,
-      "lng": 121.10975030287595,
-      "triggerRadiusMeter": 150.0,
-      "storyContent": "清咸豐至同治年間，吳屋先祖來到山豬湖開墾，在田地旁以拱子樹與石頭砌立伯公，祈求土地守護、農作順利。因伯公位於水源頭，早期也稱為「水頭伯公」，又因所在的山豬湖地區而稱「山豬湖伯公」。這座伯公見證了先民從開墾土地、引水耕作，到逐漸形成聚落的生活歷程。",
+      "lat": 24.731011,
+      "lng": 121.113335,
+      "triggerRadiusMeter": 200.0,
+      "storyContent": "南片伯公又稱「彭屋田頭伯公」，是山豬湖地區早期拓墾與農耕生活的地方信仰據點。伯公設於田地附近，守護著先民開墾的土地，也反映客家先民敬天惜土、祈求農作平安的傳統。沿著山豬湖一帶的伯公，可以逐步看見早期不同姓氏家族開墾土地、建立聚落的歷史足跡。",
       "imageUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_04.jpg",
       "panoramaUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_04.jpg",
       "audioUrls": {
@@ -105,12 +105,12 @@
         "hak": ""
       },
       "quizConfig": {
-        "question": "山豬湖伯公早期又稱為什麼？",
+        "question": "南片伯公又稱為什麼？",
         "options": [
-          "水頭伯公",
-          "車頭伯公",
-          "南片伯公",
-          "庄尾伯公"
+        "彭屋田頭伯公",
+        "山豬湖庄尾伯公",
+        "楓樹下双汴伯公",
+        "水頭伯公"
         ],
         "correctIndex": 0
       }

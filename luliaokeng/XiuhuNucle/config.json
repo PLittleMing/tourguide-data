@@ -145,7 +145,7 @@
     {
       "id": "spot_06",
       "name": "山豬湖伯公",
-      "explore_mode": "auto",
+      "explore_mode": "quiz",
       "lat": 24.728524,
       "lng": 121.121430,
       "triggerRadiusMeter": 150.0,

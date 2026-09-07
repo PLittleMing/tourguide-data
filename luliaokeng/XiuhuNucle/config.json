@@ -21,7 +21,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_01_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_01_hak.mp3",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_01_hak.mp3"
       },
       "quizConfig": {
         "question": "芎林鄉惠和宮主要奉祀的神祇是哪一位？",
@@ -48,7 +48,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_02_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_02_hak.mp3",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_02_hak.mp3"
       },
       "quizConfig": {
         "question": "山豬湖庄尾伯公主要見證了當地哪一段歷史？",
@@ -75,7 +75,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_03_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_03_hak.mp3",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_03_hak.mp3"
       },
       "quizConfig": {
         "question": "楓樹下双汴伯公為何得名？",
@@ -102,7 +102,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_04_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_04_hak.mp3",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_04_hak.mp3"
       },
       "quizConfig": {
         "question": "南片伯公又稱為什麼？",
@@ -128,8 +128,8 @@
       "audioUrls": {
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05_zh.mp3",
         "en": "",
-         "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05_hak.mp3",
-        "hak": ""
+        "nan": "",
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_05_hak.mp3"
       },
         "quizConfig": {
           "question": "榕樹伯公又稱為什麼？",
@@ -156,7 +156,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": ""
+         "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06_hak.mp3"
       },
       "quizConfig": {
         "question": "山豬湖伯公早期又稱為什麼？",
@@ -183,7 +183,7 @@
         "zh": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_07_zh.mp3",
         "en": "",
         "nan": "",
-        "hak": ""
+        "hak": "https://plittleming.github.io/tourguide-data/luliaokeng/XiuhuNucle/spot_06_hak.mp3"
       },
       "quizConfig": {
         "question": "拱子樹伯公的名稱與什麼有關？",

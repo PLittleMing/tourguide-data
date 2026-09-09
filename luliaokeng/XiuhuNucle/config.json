@@ -37,7 +37,7 @@
     {
       "id": "spot_02",
       "name": "山豬湖庄尾伯公",
-      "explore_mode": "quiz",
+      "explore_mode": "auto",
       "lat": 24.736461,
       "lng": 121.109812,
       "triggerRadiusMeter": 150.0,
@@ -64,7 +64,7 @@
     {
       "id": "spot_03",
       "name": "楓樹下双汴伯公",
-      "explore_mode": "quiz",
+      "explore_mode": "auto",
       "lat": 24.73076230732794,
       "lng": 121.11678336471833,
       "triggerRadiusMeter": 150.0,
@@ -145,7 +145,7 @@
     {
       "id": "spot_06",
       "name": "山豬湖伯公",
-      "explore_mode": "quiz",
+      "explore_mode": "auto",
       "lat": 24.728524,
       "lng": 121.121430,
       "triggerRadiusMeter": 150.0,

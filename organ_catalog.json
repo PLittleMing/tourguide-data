@@ -4,6 +4,7 @@
    {
       "id": "penghuplan",
       "title": "澎湖社區共創營造",
+      "hasspot": "yes",
       "description": "記錄地方故事・探索社區特色・共創澎湖家園",
       "coverUrl": "https://plittleming.github.io/tourguide-data/penghuplan/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/penghuplan/projects_catalog.json"
@@ -11,6 +12,7 @@
     {
       "id": "luliaokeng",
       "title": "鹿寮坑....",
+      "hasspot": "yes",
       "description": "位於新竹縣芎林鄉（包含五龍村與華龍村），是個充滿客家風情與自然生態的純樸聚落",
       "coverUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/luliaokeng/projects_catalog.json"
@@ -18,6 +20,7 @@
     {
       "id": "mingyinggeo",
       "title": "MingYing Geo",
+      "hasspot": "yes",
       "description": "將地理資訊融入在地生活，探索地方景點、認識人文特色，讓更多人看見土地的故事與魅力",
       "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/projects_catalog.json"
@@ -25,6 +28,7 @@
     {
       "id": "mypoidiy",
       "title": "純自訂景點模式",
+      "hasspot": "yes",
       "description": "景點由您自由新增與管理，不提供預設景點及探索功能...",
       "coverUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/projects_catalog.json"

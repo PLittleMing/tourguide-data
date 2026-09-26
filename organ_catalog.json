@@ -21,6 +21,13 @@
       "description": "將地理資訊融入在地生活，探索地方景點、認識人文特色，讓更多人看見土地的故事與魅力",
       "coverUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mingyinggeo/projects_catalog.json"
+    },
+    {
+      "id": "mypoidiy",
+      "title": "純自訂景點模式",
+      "description": "景點由您自由新增與管理，不提供預設景點及探索功能...",
+      "coverUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/cover.jpg",
+      "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/projects_catalog.json"
     }
   ]
 }

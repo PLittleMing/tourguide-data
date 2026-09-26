@@ -28,7 +28,7 @@
     {
       "id": "mypoidiy",
       "title": "純自訂景點模式",
-      "hasspot": "yes",
+      "hasspot": "no",
       "description": "景點由您自由新增與管理，不提供預設景點及探索功能...",
       "coverUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/cover.jpg",
       "projectCatalogUrl": "https://plittleming.github.io/tourguide-data/mypoidiy/projects_catalog.json"

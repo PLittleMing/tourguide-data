@@ -10,7 +10,7 @@
     {
       "id": "spot_01",
       "name": "惠和宮",
-      "explore_mode": "quiz",
+      "explore_mode": "auto",
       "lat": 24.735440,
       "lng": 121.110683,
       "triggerRadiusMeter": 150.0,
